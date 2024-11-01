@@ -15,24 +15,23 @@ export default function Home({ allPostsData }) {
         <p>
           Hello, I’m <strong>Sam</strong>. I’m a software engineer and a
           Blogger. You can contact me on{' '}
-          <a href="https://www.instagram.com/angular_development/" target={'_blank'}>Instagram</a>.
+          <a href="https://github.com/sunny7899/" target={'_blank'}>Instagram</a>.
         </p>
         <p>
-          Here is the list of youtube videos and links you can check{' '}
-          Complete Angular tutorial.
+          Here is the list of my pages and links you can check{' '}
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Links</h2>
         <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
+          {allPostsData.map(({ id, date, title }, index ) => (
             <li className={utilStyles.listItem} key={id}>
               <Link href={`/posts/${id}`}>
-                <a>{title}</a>
+                <a>{index + 1 + ' ' + title}</a>
               </Link>
               <br />
               <small className={utilStyles.lightText}>
-                <Date dateString={date} />
+                {/* <Date dateString={date} /> */}
               </small>
             </li>
           ))}

@@ -5,4 +5,9 @@ pages - api, posts - importing posts
 lib - read md files
 components - react comp
 
-https://biolink-tutorial.vercel.app/
+dev - Runs next dev which starts Next.js in development mode
+
+build - Runs next build which builds the application for production usage
+
+start - Runs next start which starts a Next.js production server
+
