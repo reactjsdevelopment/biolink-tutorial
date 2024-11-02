@@ -1,5 +1,5 @@
 ---
-title: "eraoftech medium blog"
+title: "medium blog eraoftech"
 ---
 
-[Link](https://eraoftech.medium.com/)
+[medium](https://eraoftech.medium.com/)

@@ -1,5 +1,5 @@
 ---
-title: "eraoftech affilates"
+title: "eraoftech linktr"
 ---
 
-[Link](https://linktr.ee/eraoftech)
+[linktr](https://linktr.ee/eraoftech)

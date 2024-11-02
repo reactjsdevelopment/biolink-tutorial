@@ -2,4 +2,4 @@
 title: "Substack codeforweb"
 ---
 
-[Link](https://codeforweb.substack.com/)
+[Substack Link](https://codeforweb.substack.com/)

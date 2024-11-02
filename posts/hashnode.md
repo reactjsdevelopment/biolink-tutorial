@@ -1,5 +1,5 @@
 ---
-title: "blog on hashnode"
+title: "hashnode blogs"
 ---
 
-[Link](https://neweraofcoding.hashnode.dev/)
+[hashnode](https://neweraofcoding.hashnode.dev/)

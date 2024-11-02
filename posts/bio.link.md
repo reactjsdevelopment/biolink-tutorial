@@ -2,4 +2,4 @@
 title: "bio.link angulardev"
 ---
 
-[Link](https://bio.link/angulardev)
+[bio.link](https://bio.link/angulardev)

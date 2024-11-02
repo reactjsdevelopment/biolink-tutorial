@@ -15,6 +15,7 @@ body {
 a {
   color: #0070f3;
   text-decoration: none;
+  text-transform: capitalize;
 }
 
 a:hover {
@@ -24,4 +25,8 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+}
+
+h2 {
+  text-transform: capitalize;
 }

@@ -1,5 +1,5 @@
 ---
-title: "Angular Course | Learn Angular Development"
+title: "Learn Angular Development beginner-to-pro-training"
 ---
 
-[Link](https://beginner-to-pro-training.vercel.app)
+[Angular Course](https://beginner-to-pro-training.vercel.app)

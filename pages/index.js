@@ -14,8 +14,8 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hello, I’m <strong>Sam</strong>. I’m a software engineer and a
-          Blogger. You can contact me on{' '}
-          <a href="https://github.com/sunny7899/" target={'_blank'}>Instagram</a>.
+          Blogger. You can contact me {' '}
+          <a href="https://github.com/sunny7899/" target={'_blank'}>Here</a>.
         </p>
         <p>
           Here is the list of my pages and links you can check{' '}
@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
           {allPostsData.map(({ id, date, title }, index ) => (
             <li className={utilStyles.listItem} key={id}>
               <Link href={`/posts/${id}`}>
-                <a>{index + 1 + ' ' + title}</a>
+                <a>{index + 1 + '. ' + title}</a>
               </Link>
               <br />
               <small className={utilStyles.lightText}>

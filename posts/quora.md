@@ -1,5 +1,5 @@
 ---
-title: "neweraofcoding quora"
+title: "quora neweraofcoding"
 ---
 
-[Link](https://neweraofcoding.quora.com/)
+[quora Link](https://neweraofcoding.quora.com/)

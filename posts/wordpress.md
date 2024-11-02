@@ -1,5 +1,5 @@
 ---
-title: "neweraofcoding wordpress"
+title: "wordpress neweraofcoding"
 ---
 
-[Link](https://neweraofcoding.wordpress.com)
+[wordpress Link](https://neweraofcoding.wordpress.com)
